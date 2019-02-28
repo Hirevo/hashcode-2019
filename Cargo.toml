@@ -1,0 +1,7 @@
+[package]
+name = "hash-code"
+version = "0.1.0"
+authors = ["Hirevo <nipolom@live.fr>"]
+edition = "2018"
+
+[dependencies]
