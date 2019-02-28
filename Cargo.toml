@@ -5,3 +5,7 @@ authors = ["Hirevo <nipolom@live.fr>"]
 edition = "2018"
 
 [dependencies]
+regex = "1.1.2"
+serde = { version = "1.0.88", features = ["derive"] }
+itertools = "0.8.0"
+rand = "0.6.5"
